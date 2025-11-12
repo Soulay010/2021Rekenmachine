@@ -156,6 +156,7 @@ public class JavaFXApp extends Application {
         primaryStage.setTitle("OPT3 - Rekenmachine");
         primaryStage.show();
     }
+    // 2+2
 
     public static void main(String[] args) {
         launch (args);
